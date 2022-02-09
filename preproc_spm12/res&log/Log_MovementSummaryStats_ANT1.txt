@@ -1,0 +1,2 @@
+TASK	Scan_ID	Range x	Range y	Range z	Range pitch	Range roll	Range yaw	Max Displacement	Max Scan-to-Scan Displacement	Mean Scan-to-Scan Displacement	Num Scans > 0.5 Voxel Displacement	Num Scans > 5% Global Signal	% of Volumes Repaired
+ANT1	16-09-18.5SWUA	0.142794	0.123281	0.253103	0.296745	0.124963	0.255988	0.349878	0.173362	0.044135	0.000000	0.000000	0.578035
